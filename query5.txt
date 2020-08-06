@@ -1,0 +1,2 @@
+SELECT title, rating FROM mytable
+WHERE rating > 7;

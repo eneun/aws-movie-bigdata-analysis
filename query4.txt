@@ -1,0 +1,2 @@
+SELECT title FROM mytable
+WHERE year > 2004;
